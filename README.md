@@ -13,3 +13,9 @@ I plan to add a personal directory for my own files, and a public directory with
 ## When do you think it will be finished?
 
 Never sounds like a reasonable deadline.
+
+### UPDATE:
+
+Since I am cheap, I will upload a few CIAs and 3DSXs for download instead of buying a server for php uploads. Below is the list of files I have added (filename/whatisthis/cia?/3dsx?)
+
+* anemone / Anemone3DS - Theme Manager / Yes / Yes (so you could do either anemone.3dsx or anemone.cia in FBI)
