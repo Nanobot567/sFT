@@ -18,4 +18,4 @@ Never sounds like a reasonable deadline.
 
 Since I am cheap, I will upload a few CIAs and 3DSXs for download instead of buying a server for php uploads. Below is the list of files I have added (filename/whatisthis/cia?/3dsx?)
 
-* anemone / Anemone3DS - Theme Manager / Yes / Yes (so you could do either anemone.3dsx or anemone.cia in FBI)
+* anemone / Anemone3DS - Theme Manager / Yes / Yes (so you could do either nanobot567.github.io/sFT/dl/anemone.3dsx or nanobot567.github.io/sFT/dl/anemone.cia in FBI)
