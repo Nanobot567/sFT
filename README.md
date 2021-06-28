@@ -18,6 +18,10 @@ Never sounds like a reasonable deadline.
 
 In FBI, you would need to navigate to Remote Install -> Manually Enter URLs, and enter the download link, in the format of nanobot567.github.io/sFT/dl/(appname).cia/3dsx. There may not be a .3dsx or .cia format, and in that case, just use the format that is available.
 
+## Any more info?
+
+Yeah, go to [this website](https://nanobot567.github.io/sFT/).
+
 ### UPDATE:
 
 Since I am cheap, I will upload a few CIAs and 3DSXs for download instead of buying a server for php uploads. Below is the list of files I have added (filename/whatisthis/cia?/3dsx?)
