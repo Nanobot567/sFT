@@ -29,4 +29,4 @@ Since I am cheap, I will upload a few CIAs and 3DSXs for download instead of buy
 * anemone / Anemone3DS - Theme Manager / Yes / Yes
 * forecast / Forecast 3DS - Weather Viewer / Yes / Yes
 * ftpd / FTP 3ds app / Yes / No
-* flite / Flite speech engine / No / Yes
+* flite-3ds / Flite speech engine / No / Yes
