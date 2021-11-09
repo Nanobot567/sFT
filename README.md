@@ -30,3 +30,4 @@ Since I am cheap, I will upload a few CIAs and 3DSXs for download instead of buy
 * forecast / Forecast 3DS - Weather Viewer / Yes / Yes
 * ftpd / FTP 3ds app / Yes / No
 * flite-3ds / Flite speech engine / No / Yes
+* a technoblade video / lol / Yes / No
